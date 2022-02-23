@@ -1,0 +1,1209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Consecration of Marcellus an ode in memory of the illustrious prince William, Duke of Gloucester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34340</idno>
+            <idno type="STC">Wing C5900A</idno>
+            <idno type="STC">ESTC R27912</idno>
+            <idno type="EEBO-CITATION">10264637</idno>
+            <idno type="OCLC">ocm 10264637</idno>
+            <idno type="VID">44761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1380:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Consecration of Marcellus an ode in memory of the illustrious prince William, Duke of Gloucester.</title>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Playford, A. Roper and are to be sold by John Nutt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William, --  Duke of Gloucester, 1689-1700 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44761:1"/>
+            <pb facs="tcp:44761:1"/>
+            <p>THE Conſecration of <hi>MARCELLUS.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:44761:2" rendition="simple:additions"/>
+            <pb facs="tcp:44761:2"/>
+            <p>THE CONSECRATION OF MARCELLUS. AN ODE, In Memory of the Illuſtrious PRINCE WILLIAM, Duke of <hi>GLOUCESTER.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Oſtendunt Terris hunc tantum Fata, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ultra</hi>
+               </l>
+               <l>
+                  <hi>Eſſe ſinunt.</hi>
+               </l> 
+               <bibl>Virg. Aen. 6.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Playford</hi> at the <hi>Temple-Change, A. Roper</hi> at the <hi>Black Boy</hi> in <hi>Fleetſtreet;</hi> and are to be Sold by <hi>John Nutt</hi> near <hi>Stationers-Hall,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb n="2" facs="tcp:44761:3"/>
+            <lg>
+               <l>He threw his wandring Eye</l>
+               <l>Along a diſtant Scene,</l>
+               <l>Full of Actions, full of Men,</l>
+               <l>The Proſpect of ſucceeding Times, and long Futurity;</l>
+               <l>The firſt, a dazling Form, began the view:</l>
+               <l>That near<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and in its native Bulk appear'd,</l>
+               <l>High on a Throne of Juſtice rear'd:</l>
+               <l>Round him in liſt'ning Crowds the Many drew:</l>
+               <l>Theſe the Commanding Monarch awes;</l>
+               <l>And as he led 'em once to Wars,</l>
+               <l>And taught 'em what Himſelf had learn't from <hi>Mars:</hi>
+               </l>
+               <l>To Pleaſure now he leads, and Eaſe,</l>
+               <l>And teaches milder Arts of Peace,</l>
+               <l>Diſpencing Ballanc't Right, and Forming wholſome Laws;</l>
+               <l>High on his Royal Forehead ſate,</l>
+               <l>A ſmiling Calm, that mixt and temper'd lofty State:</l>
+               <l>Uncommon Glories, and peculiar Grace,</l>
+               <l>Confeſs the God, and tell his Heav'nly Race:</l>
+               <l>'Twas CAESAR Great and Good:</l>
+               <l>That can make diſtant Nations jar,</l>
+               <l>And with inſpiring Conduct lead the following World to War:</l>
+               <l>Then with a Nod</l>
+               <l>Exert the God,</l>
+               <l>And huſh the hanging Storm, and bid it ceaſe,</l>
+               <l>And backward lead us to our ancient Peace,</l>
+               <l>Then tell us how to Uſe the Gift himſelf beſtow'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Janus</hi> knew the mighty Man:</l>
+               <l>Lately he ſaw him in his Hallow'd Fane:</l>
+               <l>When juſt retir'd from Alarms,</l>
+               <l>And ſweating with inceſſant Toils,</l>
+               <l>He firſt undreſs'd him from his Arms,</l>
+               <l>And hung the weighty Spoils:</l>
+               <l>Then ſhut the Myſtick Gate, and chain'd the foaming Monſter in,</l>
+               <l>And charg'd it, Plague the World no more:</l>
+               <l>That Gnaſhing ſits with horrid Grin</l>
+               <l>And beats the bolted Door:</l>
+               <l>And when Conſenting Fates again the Monſter looſe,</l>
+               <l>Shall fly, and ſcatter baleful War, and Poiſon, where ſhe goes:</l>
+               <l>CAESAR, lov'd in Earth and Heaven:</l>
+               <l>
+                  <hi>Janus</hi> bids, the Gods adviſe thee:</l>
+               <l>Joy is fleeting, Life decreaſing.</l>
+               <pb n="3" facs="tcp:44761:3"/>
+               <l>Peace invites, and Pleaſures court thee,</l>
+               <l>And ſoft Eaſe attends about thee,</l>
+               <l>Now it flutters, now it Flies thee,</l>
+               <l>Wiſely ſeize the preſent Bleſſing,</l>
+               <l>To the Earth thy Self haſt given;</l>
+               <l>And ſee! beyond the viſionary Throne,</l>
+               <l>Opens a long extended ſpace:</l>
+               <l>Stupendous Show, and ſpreading Grace,</l>
+               <l>In various Forms the Glorious Diſtance crown;</l>
+               <l>And here the prying God diſtinctly ſees</l>
+               <l>The laſt Great part of CAESAR's Life,</l>
+               <l>In all its Years, and Months, and Days:</l>
+               <l>The mighty Action marking out the Times,</l>
+               <l>Which now in looſe Idea's and rude Schemes,</l>
+               <l>Juſt form'd, does with ambitious Strife,</l>
+               <l>And forward Haſt,</l>
+               <l>Struggle within the vaſt capacious Mind,</l>
+               <l>Eager of mighty Birth to bleſs Mankind,</l>
+               <l>And make the preſent peaceful Age ſuperiour to the Laſt;</l>
+               <l>Training Honours, crowding Fame,</l>
+               <l>Juſt Dues to Valour, and Rewards of Worth.</l>
+               <l>Wait, and preſs, and load his Name,</l>
+               <l>Whilſt kindly he endures to Linger here on Earth.</l>
+               <l>See! <hi>Janus,</hi> Love and wanton Pleaſures,</l>
+               <l>Laſting Peace, Luxurious Plenty,</l>
+               <l>Open all their boundleſs Treaſures,</l>
+               <l>Never ſpent, and never Empty:</l>
+               <l>Soothing Eaſe, Commanding Beauty,</l>
+               <l>Growing Wealth, and gayeſt Glory,</l>
+               <l>How they Charm thee, and Invite thee,</l>
+               <l>And prolong their Pomp before Thee:</l>
+               <l>Foreign Friendſhip, ſearching Science,</l>
+               <l>(Theſe our Golden Ages made)</l>
+               <l>Private Peace, and kind Complyance,</l>
+               <l>Gainful Arts, and Buiſy Trade,</l>
+               <l>In pleaſing Images dreſs all the Plain.</l>
+               <l>And the Charming Scene extend:</l>
+               <l>Theſe the Bleſſings that attend</l>
+               <l>The coming Years of CAESAR's happy Reign:</l>
+               <l>Purſue, Purſue,</l>
+               <l>The Lovely view,</l>
+               <l>And e're the Proſpect caſt the Trav'lling Eye;</l>
+               <l>'Tis only Bounded with the Sky:</l>
+               <l>For thither CAESAR muſt at laſt remove:</l>
+               <pb n="4" facs="tcp:44761:4"/>
+               <l>Conſulting Gods already have agreed his Room,</l>
+               <l>When e're th' expected mighty Soul ſhall Come,</l>
+               <l>And from his ancient Vow abſolve Indebted <hi>Jove;</hi>
+               </l>
+               <l>Be that the laſt Great Stage,</l>
+               <l>That ſees his lateſt Force,</l>
+               <l>And ends the Glorious Courſe,</l>
+               <l>And Crowns the Finiſh'd Age.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Janus</hi> leave the Tempting Sight;</l>
+               <l>Whither, whither, wouldſt Thou pry<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>'Tis too Dazling, and too Bright,</l>
+               <l>Now it Treads the whited Way,</l>
+               <l>And loſing the purſuing Eye,</l>
+               <l>It mixes with Eternal Light,</l>
+               <l>And drowns in Day:</l>
+               <l>In vain thou follow'ſt in the Shining Track,</l>
+               <l>And do'ſt againſt too ſtrong a Light engage,</l>
+               <l>When leſſer Proſpects draw thee back,</l>
+               <l>To view the meaner Glories of the Age;</l>
+               <l>There is an Object Great and Fair,</l>
+               <l>That well deſerves thy ſecond Care:</l>
+               <l>See'ſt thou on that diſtant Plain</l>
+               <l>Thoſe little moving Images of Men,</l>
+               <l>Who ſuch comely Order train,</l>
+               <l>And form a new delightful Scene?</l>
+               <l>The nimble Figures all in Arms appear:</l>
+               <l>In every Rank each marſhall'd Boy,</l>
+               <l>Wears ſome weildy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> warlike Toy,</l>
+               <l>Such as tender Limbs can bear,</l>
+               <l>Some a Sword, and ſome a Spear:</l>
+               <l>Advancing Legions with uncommon Speed,</l>
+               <l>To ſeeming Battle in juſt Method lead:</l>
+               <l>Now mixing tender Shouts, their liſted Swords they weild,</l>
+               <l>And all with equal Steps inſult the Field:</l>
+               <l>A wavy Luſtre ſhows their Arms afar,</l>
+               <l>And ſignifies approaching War:</l>
+               <l>See! now they meet, they join,</l>
+               <l>And in the friendly Fight engage:</l>
+               <l>Noiſe, and Smoke, and Fire combine,</l>
+               <l>To mock the War, and colour harmleſs Rage:</l>
+               <pb n="5" facs="tcp:44761:4"/>
+               <l>Some with diſſembled Blows delude the Wound:</l>
+               <l>And others Fall unhurt, and Bite the Ground:</l>
+               <l>They Kill, they Take, they Rally, they Retreat,</l>
+               <l>By Turns they yield,</l>
+               <l>And quit the Field,</l>
+               <l>And Act the Conduct of the Great;</l>
+               <l>But lo! a valiant Youth, and Heav'nly Fair,</l>
+               <l>In burniſht Armour dreſt;</l>
+               <l>That does with noted Eminence appear,</l>
+               <l>Superiour to the reſt:</l>
+               <l>See'ſt thou, with what unequal Force</l>
+               <l>He threw yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> broken Dart?</l>
+               <l>And look! with what a Grace and Art</l>
+               <l>He ſits the bounding Horſe!</l>
+               <l>Or when on Foot, how liftily he Treads,</l>
+               <l>And with Commanding State the willing Squadrons leads:</l>
+               <l>Know'ſt that Ruling, that Imperial Air?</l>
+               <l>How much of Caeſar's Image does it bear?</l>
+               <l>That charming Look! That proper Grace<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>It muſt, it muſt be One of <hi>Caeſar</hi>'s Heav'nly Race:</l>
+               <l>And, hark! the following Crowd,</l>
+               <l>Proclaims the mighty Name aloud.</l>
+               <l>MARCELLUS, <hi>Royal Boy,</hi>
+               </l>
+               <l>
+                  <hi>Care of Earth, and Heaven's Joy,</hi>
+               </l>
+               <l>
+                  <hi>Thee we Honour, Thee we Love,</hi>
+               </l>
+               <l>
+                  <hi>Son of</hi> Caeſar, <hi>and of</hi> Jove:</l>
+               <l>
+                  <hi>Hear, Thou mighty Father, hear:</hi>
+               </l>
+               <l>
+                  <hi>May this great Adopted Heir</hi>
+               </l>
+               <l>Caeſar'<hi>s Crown, and Virtues, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hail, warlike Boy! 'tis <hi>Janus</hi> bids thee, Hail!</l>
+               <l>That canſt ſo ſcon in Arms and Toils prevail:</l>
+               <l>And do'ſt in Sports like Theſe, prepare</l>
+               <l>And form thy eaſy Mind <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> War;</l>
+               <l>Thus in his Youth, but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Thine,</l>
+               <l>Thy Anceſtor the <hi>Trojan Boy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Deſcended from the long <hi>Dardanian</hi> Life;</l>
+               <l>Who firſt Transferr'd the <hi>Martial Game</hi> from <hi>Troy,</hi>
+               </l>
+               <l>His mighty Trade in War began,</l>
+               <l>And early ſhow'd the Future Man;</l>
+               <pb n="6" facs="tcp:44761:5"/>
+               <l>This thy firſt Eſſay, and Attempt in Arms:</l>
+               <l>Nor ſtop't the blooming Warriour here,</l>
+               <l>But long'd to try ſubſtantial Harms,</l>
+               <l>And change an Empty Show to Real War.</l>
+               <l>For ever ſhall <hi>OCTAVIA</hi> note the Day,</l>
+               <l>When Great <hi>AUGUSTUS</hi> ſtood</l>
+               <l>On <hi>Tyber</hi>'s ſacred Flood,</l>
+               <l>Juſt ready to Embark the Liquid Way:</l>
+               <l>Attending Nations did his Preſence call,</l>
+               <l>To End the doubtful War, and Curb the haughty <hi>Gaul:</hi>
+               </l>
+               <l>Then, then, amidſt the Throng,</l>
+               <l>From his <hi>Octavia</hi>'s Arms <hi>MARCELLUS</hi> ſlung,</l>
+               <l>And round the Monarch's Neck in claſping Turnings hung!</l>
+               <l>How did he preſs him!</l>
+               <l>How Embrace him!</l>
+               <l>And whiſper with each Kiſs ſome warlike Thought,</l>
+               <l>And tell him, that he long'd to go,</l>
+               <l>And ſee in Camp what Heroes do,</l>
+               <l>And how they Led, and how they Fought:</l>
+               <l>Not <hi>Caeſar</hi>'s timely Care,</l>
+               <l>Nor the Mother's ſofter Fear,</l>
+               <l>Could the Stubborn Youth reſtrain;</l>
+               <l>Both perſuade, and both in vain:</l>
+               <l>Still he wiſh't, ſtill urg'd to go,</l>
+               <l>Till Tears at laſt began to flow,</l>
+               <l>Tears that Confeſs'd the Child, but Words the Man;</l>
+               <l>Admiring Crowds the happy Omen bleſt,</l>
+               <l>And quickning Joy transfixt the Mother's Breaſt;</l>
+               <l>Happy the Age, which the kind Fates ordain,</l>
+               <l>To See the Perfect Heroe, and Enjoy the Man!</l>
+               <l>With ſuch Beauty, and ſuch Force,</l>
+               <l>The Youth his Deſtin'd Race begain;</l>
+               <l>And ſtarted to the Noble Courſe,</l>
+               <l>And open'd with ſuch Lighting <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dawn:</l>
+               <l>What then ſhall his Meridian Luſt to be:</l>
+               <l>Bleſt World, that ſhall thoſe Glori<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>When in Accompliſh'd ſplendor Bright,</l>
+               <l>He ſhall with Meaſur'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>And Riſing to his middle Sphere.</l>
+               <l>Laviſh in Reaching Rays Diſpence,</l>
+               <l>A ſtrong Enliv'ning Influence,</l>
+               <l>And to the Proſtrate Earth divide Impartial Light;</l>
+               <pb n="7" facs="tcp:44761:5"/>
+               <l>Compar'd with This, how Fading and how Dim,</l>
+               <l>Does Young <hi>Caeſareo</hi>'s Glory ſeem!</l>
+               <l>
+                  <hi>Caeſareo,</hi> only Royal in his Name:</l>
+               <l>Rival in Empire, and in Fame:</l>
+               <l>Who far remov'd from Dreaded Harms,</l>
+               <l>And wantoning in <hi>Egypt</hi>'s Court,</l>
+               <l>Diſſolves in Luxury and ſport,</l>
+               <l>And Lolls away his Lazy Youth in <hi>Cleopatra</hi>'s Arms.</l>
+            </lg>
+            <lg>
+               <l>Fain would I with Ambitious Pace,</l>
+               <l>A new extended Scheme of Future Glory Trace,</l>
+               <l>But Oh! a warning Fear forbids my Haſt,</l>
+               <l>And tells me, that thou ſhin'ſt too bright to laſt:</l>
+               <l>I'ſt a Miſtake? Forgive the Sawcy Fear:</l>
+               <l>And will the Fates thy Virtues ſpare?</l>
+               <l>But they, alaſs! to all beneath,</l>
+               <l>Impartially Diſtribute Common Death:</l>
+               <l>And with Rude Ungovern'd Rage,</l>
+               <l>They Crop the Tender Flow'r, and Gather Ripen'd Age:</l>
+               <l>Heedleſs of Blooming Youth and Budding Prime,</l>
+               <l>They reckon Life by Action, not by Time:</l>
+               <l>It muſt be ſo; and ſee, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'er all the Plain,</l>
+               <l>Where thy firſt Little Life; and Growing Acts were ſeen,</l>
+               <l>Scarce yet Prolong'd to Half <hi>AUGUSTUS</hi> Reign,</l>
+               <l>Hover's a Gloomy, Scowling Night,</l>
+               <l>And caſt's an Envious ſhade between:</l>
+               <l>The Darkneſs cloſes the Enlarging Sight,</l>
+               <l>And break's abruptly the Unfiniſh'd Scene.</l>
+            </lg>
+            <lg>
+               <l>Ye Gods! or Fates! or whatſoe'er ye be,</l>
+               <l>Who manage Life, and Guide Mortality:</l>
+               <l>Inſtruct me in the Grand Dark Myſtery of Death,</l>
+               <l>And, if by any, by what Rules we breath:</l>
+               <l>Do you at ev'ry Birth,</l>
+               <l>Settle a Deſtin'd Day,</l>
+               <l>That ſhall recal the Moving Form to Earth,</l>
+               <l>And to its Native Home reduce the Living Clay?</l>
+               <l>Why did you then with ſo much Art,</l>
+               <l>Such Beauties to one Perfect P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Gave him a Finiſh'd Form, and Brighter Mind,</l>
+               <l>Then to the Gazing Earth below,</l>
+               <l>Did the Charming Image ſhow,</l>
+               <pb n="8" facs="tcp:44761:6"/>
+               <l>And from Admiring Men,</l>
+               <l>Snatch'd it back to Heaven agen,</l>
+               <l>To mock the wiſhing World, and Tempt Mankind;</l>
+               <l>And is it thus ye Govern all beneath;</l>
+               <l>Decreeing certain Laws of neceſſary Death:</l>
+               <l>Or is it left to <hi>Jove</hi>'s unbounded Pow'r</l>
+               <l>To fix the Fated Hour.</l>
+               <l>To Cloſe or ſtretch the Span,</l>
+               <l>And meaſure out unequal Life to Man?</l>
+               <l>Cruel God! that ſeldom Grants,</l>
+               <l>Some Noble Valu'd Birth:</l>
+               <l>But he ſtraight to Heaven Tranſplants</l>
+               <l>The Lovely Flower from Earth;</l>
+               <l>Tell us Envious Deity,</l>
+               <l>What we Mortals owe to Thee:</l>
+               <l>And can'ſt thou ſtill our Vows and Gifts require,</l>
+               <l>New Altars, Rich Perfumes, Eternal Fire?</l>
+               <l>Down, the Sacred Structures, Down,</l>
+               <l>All that do his Godhead own!</l>
+               <l>Burn his Shrines, his Temples Plunder!</l>
+               <l>Break the Marble Forms in ſunder!</l>
+               <l>Snap the Spear, and Drop the Thunder!</l>
+               <l>Ceaſe hallow'd Flames, and ſacred Smoke,</l>
+               <l>And Prieſts that do his Name Invoke!</l>
+               <l>Only for <hi>Caeſar</hi>'s ſake the <hi>Capitol</hi> we ſpare,</l>
+               <l>And give him Leave ſtill to Inhabit there:</l>
+               <l>But let his other Statues fall.</l>
+               <l>As <hi>MARCELLUS,</hi> low;</l>
+               <l>This Revenge to him we owe:</l>
+               <l>Thus, thus w' attone</l>
+               <l>The lovely Youth that's gone:</l>
+               <l>The faireſt Form of all,</l>
+               <l>His only Image that was left below.</l>
+            </lg>
+            <lg>
+               <l>Ye Gods—But ye are Cruel too as <hi>Jove:</hi>
+               </l>
+               <l>Nor hear our Prayers,</l>
+               <l>Nor mind our Tears:</l>
+               <l>But mingled with the Univerſal Joy,</l>
+               <l>Fly, to receive the Lovely Boy,</l>
+               <l>Juſt now arriv'd above;</l>
+               <pb n="9" facs="tcp:44761:6"/>
+               <l>Go, go, to the Pomp, and attend on the State:</l>
+               <l>'Tis Noble, 'tis worthy of Heaven and Great:</l>
+               <l>Now! now! the Heav'nly Quire,</l>
+               <l>Their Voices and their vocal Strings prepare,</l>
+               <l>All as <hi>MARCELLUS</hi> young, and all almoſt as Fair:</l>
+               <l>Now with looſe Hands their bended Quills they ſling,</l>
+               <l>Now gently touch the Golden Lyre,</l>
+               <l>And taſt the ſpeaking String:</l>
+               <l>Upward flies the weaken'd Sound,</l>
+               <l>And ſpreads diffuſive Harmony around:</l>
+               <l>Melting and wild were their Meaſures,</l>
+               <l>Soft was the Lay,</l>
+               <l>Soft and gay,</l>
+               <l>Soft as their Love, and Gay as their Pleaſures:</l>
+               <l>Now with eaſie bareleſs Skill,</l>
+               <l>They drag the lazy Quill,</l>
+               <l>And lengthen out the ſolemn Voice:</l>
+               <l>The charm'd, the raviſht Ear,</l>
+               <l>Does at leiſure hear,</l>
+               <l>And all the ſtaying Sound enjoys:</l>
+               <l>So ſtately the majeſtick Notes ariſe,</l>
+               <l>And ſeem to meditate their ſtay,</l>
+               <l>But forc'd, they Dying ſwim away,</l>
+               <l>And break upon the vaulted Skies:</l>
+               <l>Now they ſhift and change their Art,</l>
+               <l>From a languiſhing Ear, and a ſoftneſs they ſtart,</l>
+               <l>New Life, and new Motion, to their Strings they impart:</l>
+               <l>How warbling the Notes! how they gather apace!</l>
+               <l>How they join! how they mix! and each other they chace!</l>
+               <l>How willingly driven,</l>
+               <l>Impatient of ſtay,</l>
+               <l>They take Wing and away,</l>
+               <l>And crowd and preſs upward to Heaven!</l>
+               <l>Such is the Song, and ſo Divine,</l>
+               <l>When Art and Joy in the Compoſure join!</l>
+               <l>To charm the Prince, and his Arrival Gre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>And give him Taſt of future Bliſs,</l>
+               <l>Deſerv'd an Harmony like this,</l>
+               <l>Brisk as the motion of thoſe Spheres, and as their Muſick ſweet.</l>
+               <pb n="10" facs="tcp:44761:7"/>
+               <l>To what a lofty pitch,</l>
+               <l>Muſt <hi>Rome</hi>'s extended Glory reach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Had but conſenting Fates agreed,</l>
+               <l>To lengthen out <hi>MARCELLUS</hi> days,</l>
+               <l>And ſuffer'd him in <hi>Caeſar</hi>'s Praiſe,</l>
+               <l>And in his Empire to Succeed:</l>
+               <l>Nor was the Youth unworthy of a Crown,</l>
+               <l>His Virtues try'd, his Valour ſeen,</l>
+               <l>Second in both to none,</l>
+               <l>And only next to Him, who is the Firſt of Men;</l>
+               <l>Expecting Nations look't in vain,</l>
+               <l>And hop'd the promis'd Bleſſings of his Reign:</l>
+               <l>With this they Recompenc'd their Dangers paſt:</l>
+               <l>Were told, that Camps and Arms no more ſhould laſt:</l>
+               <l>For this their finiſht Toils and Wars,</l>
+               <l>And all their Labours they forgot:</l>
+               <l>
+                  <hi>Pharſalia</hi>'s Plains, where vanquiſht <hi>Pompey</hi> fled,</l>
+               <l>And fixt the doubtful Sway, and loſt his Head,</l>
+               <l>Then <hi>Actium</hi>'s freſher Scars,</l>
+               <l>When in the Common Cauſe,</l>
+               <l>Of God's deſpis'd, and injur'd Laws,</l>
+               <l>Conſenting Subjects fought:</l>
+               <l>And thoſe yet bleeding Wounds from warlike <hi>Gallia</hi> brought;</l>
+               <l>The laſt too warring Age,</l>
+               <l>In its declining State,</l>
+               <l>O're-charg'd with Blood and Rage,</l>
+               <l>Was with too much <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or Great:</l>
+               <l>Battles gain'd, and Honours won,</l>
+               <l>Compar'd with Publick Good:</l>
+               <l>Did but unequally attone</l>
+               <l>For Treaſures drain'd, and vaſt Expence of Blood;</l>
+               <l>To Diſcontent, a Publick Crime,</l>
+               <l>Complaining Nations fell:</l>
+               <l>And loaded Prayers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> old TIME,</l>
+               <l>Enough to ſtop his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wheel:</l>
+               <l>By their Great, Common, Darling Virtue Change,</l>
+               <l>They urg'd and preſs'd the God,</l>
+               <l>And told him, that new Years he ow'd:</l>
+               <l>That <hi>Mars</hi> had ſway'd too long, and ſhould no farther Range:</l>
+               <pb n="11" facs="tcp:44761:7"/>
+               <l>The God intreated did at laſt relent:</l>
+               <l>The Iron Image ſhook with awful Nod,</l>
+               <l>The ſolemn Sign of full Aſſent:</l>
+               <l>He ſhook the Myſtick Glaſs,</l>
+               <l>And forc'd the Running Atoms mend their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>And as they ſwiftly flow'd,</l>
+               <l>The Bloody Years were ſpent:</l>
+               <l>But when old <hi>Cronos</hi> caſt his Eye</l>
+               <l>Upon the Charming Age behind,</l>
+               <l>What Warmth, what Life, what Ecſtaſy!</l>
+               <l>Rap't, and fill'd his Mind!</l>
+               <l>How oft the God the ſacred Silence broke!</l>
+               <l>What mighty Secrets did he tell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>In Myſtick Oracle!</l>
+               <l>And Great Dark Things to come with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Paſſion ſpoke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Now! Now! he cries, <hi>MARCELLUS</hi> now,</l>
+               <l>To <hi>Caeſar</hi> ſucceeds, and <hi>Caeſar</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>What Plenty!—What Pleaſure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>—</l>
+               <l>What Joy without meaſure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Since this Reigns below<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>The other Above.</l>
+            </lg>
+            <lg>
+               <l>Then ſwiftly, as he ſpoke, he forward flies,</l>
+               <l>Eager to meet the coming Joys:</l>
+               <l>But o! with too impetuous haſt,</l>
+               <l>He raſhly wings his way:</l>
+               <l>And too early, and too faſt,</l>
+               <l>Urging the Promis'd Day,</l>
+               <l>He hurries on too far, and over-flies his Prey;</l>
+               <l>Weary'd and Panting, now he Gazes back,</l>
+               <l>And Conſcious own the Great Miſtake:</l>
+               <l>
+                  <hi>MARCELLUS</hi> far behind he ſees,</l>
+               <l>A breathleſs Trunk extended on the Plain:</l>
+               <l>Together with him proſtrate lies</l>
+               <l>The Hope and Promis'd Glory of his Reign:</l>
+               <l>Nor ſhall the Body lie Inglorious there,</l>
+               <l>Though hardly that deſerves our Care,</l>
+               <l>Which could no better keep on Earth</l>
+               <l>The mighty Soul, that to its Truſt was Given,</l>
+               <pb n="12" facs="tcp:44761:8"/>
+               <l>But ſuffer'd it to ſtruggle forth,</l>
+               <l>And mounting Native Skies eſcape to Heaven:</l>
+               <l>Yet to his Great Remains be the laſt Honours paid,</l>
+               <l>That may our Duty ſhow, and pleaſe the ſmiling <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Already He's Proclaim'd on high.</l>
+               <l>And by his Father <hi>Jove</hi> decreed a Deny:</l>
+               <l>Learn from the Gods, ye <hi>Romans;</hi> learn to Give</l>
+               <l>Thoſe Off'rings Virtues ſuch as His deſolve:</l>
+               <l>Haſt, haſt, the Noble Pomp, and ſolemn Show,</l>
+               <l>That gives him Altars, Vows, and Worſhip here below.</l>
+            </lg>
+            <lg>
+               <l>High on ranking Cedar born,</l>
+               <l>Let a vaſt Pile its lofty Columns rear,</l>
+               <l>And lift his glittering Top to upper <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Round it luxurious Sweets their balmy Stores imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>And Goblets in juſt Spices fixt, and fill'd</l>
+               <l>With maſſy Ore, the ſhining <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>All Beauteous be the Frame, and form'd with curious <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>The Faireſt ever deckt great <hi>Mars</hi>'s <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>High on the gilded Spire,</l>
+               <l>An Eagle ſtands, the Royal Fowl,</l>
+               <l>That watches the aſcending Fire,</l>
+               <l>Prepar'd to ſnatch the mighty Soul;</l>
+               <l>Upon a Golden Bed beneath,</l>
+               <l>Let the Lovely Body reſt,</l>
+               <l>A better <hi>Phoenix</hi> in its balmy Neſt:</l>
+               <l>How ſtately, how Auguſt it lies!</l>
+               <l>Though pale the Looks, and dimm the Eyes.</l>
+               <l>Yet Charming ſtill, and Languiſhing in Death;</l>
+               <l>Around the lower Pile,</l>
+               <l>In comely Ranks and equal Diſtance plac'd,</l>
+               <l>Six hundred Beds the painted <hi>Neeches</hi> fill,</l>
+               <l>With <hi>Tyrian</hi> Purple ſpread, and golden Treſſes grac'd:</l>
+               <l>CAESAR himſelf this Gift beſtow'd,</l>
+               <l>A Gift to Love, and Sorrow too,</l>
+               <l>To Love, and Sorrow, for <hi>MARCELLUS</hi> due,</l>
+               <l>Worthy of him who Gave, and him to whom 'twas ow'd;</l>
+               <l>Extended on the Downy Couches ly,</l>
+               <l>Prodigious Forms of great Heroick Men,</l>
+               <pb n="13" facs="tcp:44761:8"/>
+               <l>Breathing in moving Wax a Second Life:</l>
+               <l>A numerous Race, a Royal Progeny,</l>
+               <l>That weilded well the Sword, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Employ the Pen:</l>
+               <l>Some for their Prudence, and their Conduct Crown'd,</l>
+               <l>And ſome for Wars and Toils renown'd,</l>
+               <l>And Taming foreign Foes, and quelling Factious Strife.</l>
+               <l>
+                  <hi>Numa,</hi> for Juſtice and Religion known;</l>
+               <l>Who holy Rites, like theſe, did firſt Ordain,</l>
+               <l>And Deckt the Temple, and Rebuilt the Throne.</l>
+               <l>And taught his Subjects to Obey, his Succeſſors to Reign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Next <hi>Marcius:</hi> Studious of the Publick Eaſe:</l>
+               <l>And knowing to Adorn and ſettle Peace:</l>
+               <l>Heedleſs of hardy Arms, and coſtly War,</l>
+               <l>Wiſely he bent his Royal Care,</l>
+               <l>To poliſh Manners, and rudo Subjects awe,</l>
+               <l>And both Accompliſh't were,</l>
+               <l>By good Example, a familiar Law.</l>
+               <l>Then <hi>Julius,</hi> Great in Peace, in Battle Great:</l>
+               <l>But in his Virtues too Unfortunate:</l>
+               <l>The ghaſtly Image ſinks the bloody Red,</l>
+               <l>Mangled his glaring Face, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhing Head:</l>
+               <l>Wounds! that late, too late ſhall Heal:</l>
+               <l>Sad Marks of Vulgar Rage, and ſtil'd miſtaken Zeal.</l>
+               <l>Beyond: Great <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <hi>Trojan</hi> Race:</l>
+               <l>The Temper'd Sons of <hi>Venus</hi> and of <hi>Mars:</hi>
+               </l>
+               <l>When <hi>Warring Families</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> combin'd,</l>
+               <l>And Good <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Blood, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Great <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> join'd:</l>
+               <l>Prodigious Names, and Wonders of the Age:</l>
+               <l>That did the mighty <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And with Hiſtorick <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>New Heroes ſtill, and ſtill <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Godlike ſhine:</l>
+               <l>Aſcending to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>They raiſe the lifted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And ſtretch from vaſt <hi>Auguſtus</hi> on as far as <hi>Jove.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, now, begin, and let the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And thrice the Finiſh'd <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <pb n="14" facs="tcp:44761:9"/>
+               <l>Thrice let the Holy Quire invoke</l>
+               <l>Propitious Gods, and Great <hi>Palatian Jove.</hi>
+               </l>
+               <l>With lifted Hands and ſcented Smoke:</l>
+               <l>Thrice let the mingled Shouts aſcend the Skies:</l>
+               <l>And Sound the mourning Muſick thrice;</l>
+               <l>'Tis done; and ſee! the Black long Train</l>
+               <l>Extended Fills, the Hallow'd Plain;</l>
+               <l>An Hundred Senators in Sable Robes,</l>
+               <l>The Silent march precede:</l>
+               <l>Patriots, for Wiſdom and for Virtue known;</l>
+               <l>And Lovers of their Country and their Gods</l>
+               <l>The Ornaments of <hi>Caeſar</hi>'s Throne,</l>
+               <l>Skillful to Rule in Peace, in War to Lead:</l>
+               <l>The firſt <hi>Meſſala:</hi> Born of Noble Blood,</l>
+               <l>A finiſh'd <hi>Roman</hi> Wiſe, and Good,</l>
+               <l>Who Juſtice did to Marriage Joys prefer:</l>
+               <l>In Virtue ſtrictly Nice, and almoſt too ſevere</l>
+               <l>Belov'd by all, but moſt to <hi>Caeſar</hi> dear.</l>
+               <l>
+                  <hi>Maecaenas</hi> next, a Noted Name,</l>
+               <l>Familiar to the <hi>Muſes,</hi> and to <hi>Fame:</hi>
+               </l>
+               <l>The Common Genius, for the pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieſt made,</l>
+               <l>And Prodigally ſpent upon Mankind,</l>
+               <l>Always around diffuſive ſpread,</l>
+               <l>And like that praiſe its Merits, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Loyal in Counſel, terrible in War,</l>
+               <l>In Faith as ſteddy, as in Judgment clear:</l>
+               <l>Lover of ſtudious Youth who forward preſt:</l>
+               <l>And neareſt to his great Example bene</l>
+               <l>Patron of Poets, and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beſt</l>
+               <l>That did inſpire the Bard, and give the him ample Theme</l>
+               <l>Next <hi>Cotta</hi> in Domeſtick Viſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Town,</l>
+               <l>Free Converſe, Eaſy Wit, and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Fabius,</hi> for ponder'd Sence and Solid <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Piſo,</hi> for Majeſty, and <hi>Lenthius</hi> for State</l>
+               <l>And <hi>Varius,</hi> wining equal Praiſe of Men,</l>
+               <l>Whether he mounts the <hi>Roſtrum,</hi> or adorns the Scene,</l>
+               <l>In that <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>With <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Theſe were the Chiefs, did in the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And Patriots next to Theſe in Crowding Ranks ſucceed;</l>
+               <pb n="15" facs="tcp:44761:9"/>
+               <l>Amazing Pomp! Prodigious ſhow!</l>
+               <l>Such was the Lovely Boy:</l>
+               <l>So much their Pride, ſo much their Joy:</l>
+               <l>To whom were due theſe Rites, and Univerſal Woe.</l>
+            </lg>
+            <lg>
+               <l>Behind, another Proſpect fills the Eye:</l>
+               <l>Advancing Youths in ſhining Armour dreſt,</l>
+               <l>Move to the Great Solemnity,</l>
+               <l>Their Sorrow in their Tears and Drooping Looks expreſt.</l>
+               <l>This was the Valiant Band,</l>
+               <l>That once Enjoy'd the <hi>Princes</hi> firſt Command:</l>
+               <l>How Beautifully ſad their Grief appears!</l>
+               <l>And what a Charm a Lovely ſorrow Wears!</l>
+               <l>Their Little Trumpets form a Shriller Noiſe,</l>
+               <l>And Interrupting break the ſharter'd Voice:</l>
+               <l>The Drums Unbrac'd <hi>Rebate</hi> that Warlike Sound,</l>
+               <l>That once Inſpir'd to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, and Taught to Wound<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>No more their Arms or Spoils they Mind,</l>
+               <l>But break the Sword, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Shield:</l>
+               <l>And dragging Spears behind,</l>
+               <l>Scrawl with Inverted Points the Furrow'd Field.</l>
+            </lg>
+            <lg>
+               <l>Now let the great Proceſſion end;</l>
+               <l>And let the Sacred Quire <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>See! See! They come, they come<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And each his Cypreſs Crown:</l>
+               <l>Immortal Bards, in various Meaſures <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>To whom indulging <hi>Phoebus</hi> gave the Art of Verſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And in proportion'd Numbers to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The Pow'rs of Gods, and Acts of Men,</l>
+               <l>Who next to Gods engage the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Great Maſters of the Song, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And Furniſht from the preſent Fruitful Time:</l>
+               <l>
+                  <hi>Flaccus:</hi> his ready Lure but lately ſtrung,</l>
+               <l>When <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> becoming <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the New-born Age he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng:</l>
+               <l>The <hi>Lyrick</hi> wandring with unequal Feet,</l>
+               <l>Flows ſo ſmoothly, and ſo ſweet:</l>
+               <pb n="16" facs="tcp:44761:10"/>
+               <l>And like <hi>Maeander</hi>'s Streams,</l>
+               <l>Partaking both Extremes,</l>
+               <l>Swiftly now, now ſlowly glides,</l>
+               <l>And forms a thouſand Twinings with its Tides:</l>
+               <l>Still Rowling to its Fountain back,</l>
+               <l>Whence with repeated Force,</l>
+               <l>Again it runs its former Courſe,</l>
+               <l>And loſes all the Neighb'ring Rivers in the crooked Trace:</l>
+               <l>Next <hi>Gallus:</hi> Sprung from no Inferiour Race,</l>
+               <l>Fam'd for Complaiſance, Wit, and Charming Grace:</l>
+               <l>Nor when he Pray's the Muſe, is the great Bard unhear'd:</l>
+               <l>She taught him Hymns, to liſt'ning Gods preferr'd:</l>
+               <l>Too ſeldom does the cautious Poet write,</l>
+               <l>And gives us leſs of Verſe, and more delight:</l>
+               <l>In Judgment ſolid, in Experience clear,</l>
+               <l>He well deſerves that Laurel he was born to wear.</l>
+               <l>
+                  <hi>Macer,</hi> a Bard of Great Renown,</l>
+               <l>For Cenſure, Character, and Humour known:</l>
+               <l>Whether he does with niceſt Art</l>
+               <l>To its ſevereſt Edge the pointed Satyr raiſe,</l>
+               <l>Or decks deſerving Merit in becoming Praiſe,</l>
+               <l>To whom <hi>Apollo,</hi> prodigally kind,</l>
+               <l>Did the double Skill impart,</l>
+               <l>To Cure the Body, and to Pleaſe the Mind.</l>
+               <l>Next <hi>Archias,</hi> Maſter of the <hi>Roman</hi> Strain,</l>
+               <l>And in Deſcription Curious, Juſt and Plain.</l>
+               <l>
+                  <hi>Tibullus</hi> Courtly, ſmooth and Pure,</l>
+               <l>And <hi>Catulus,</hi> for Wit and Senſe, of equal Praiſe ſecure.</l>
+               <l>O, were our kind ſtill <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>How much this Subject <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his Muſe become!</l>
+               <l>For what a ſecret Myſtick Force it wears;</l>
+               <l>To warm to gentle Love, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to Tears</l>
+               <l>Or had <hi>Lucretius</hi> liv'd to <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The Heavenly Quire, and in the Song Combine!</l>
+               <l>The Song, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have then been all Divine.</l>
+            </lg>
+            <lg>
+               <pb n="17" facs="tcp:44761:10"/>
+               <l>Now begin, and ſtrike the Lyre,</l>
+               <l>And let the Tuneful conſpire:</l>
+               <l>Higher yet, and higher,</l>
+               <l>To a more exalted Pitch,</l>
+               <l>Let the riſing Accents reach:</l>
+               <l>Begin a Pleaſant Lay,</l>
+               <l>That may the Mourning Sound Exceed;</l>
+               <l>Be it Pleaſant, be it Gay,</l>
+               <l>'Tis juſt that ſuch as this ſhould Teach:</l>
+               <l>The Laſting Praiſes of the Mighty Dead.</l>
+               <l>
+                  <hi>Marcellus</hi> was Young and Fair:</l>
+               <l>Was Fair as the Goddeſs who bore him:</l>
+               <l>
+                  <hi>Marcellus,</hi> the Muſes Care,</l>
+               <l>For they and the Graces adore him;</l>
+               <l>To <hi>Venus,</hi> to <hi>Venus,</hi> moſt Dear,</l>
+               <l>And ſcarce her <hi>Adonis</hi> before him,</l>
+               <l>
+                  <hi>Marcellus</hi> was Young and Fair,</l>
+               <l>Yet Manly and Studious of War:</l>
+               <l>How he led! hwo he Fought!</l>
+               <l>What Art! and what Force!</l>
+               <l>How he Graſp'd the Drawn Sword! and Rul'd the Proud Horſe.</l>
+               <l>
+                  <hi>MARCELLUS</hi> thus Learnt, and <hi>Caeſar</hi> thus Taught;</l>
+               <l>O he was Godlike! all and all Divine!</l>
+               <l>But made too ſlight, and Wrought too fine.</l>
+               <l>Charm, and Life, and Grace, and Feature,</l>
+               <l>Spirit, Wit, and Harmony,</l>
+               <l>Sprightly Force, and Majeſty,</l>
+               <l>Did compoſe his finiſh'd Nature:</l>
+               <l>Form'd the Body, Tun'd the Soul,</l>
+               <l>And perfected a Lovely whole;</l>
+               <l>Take Him, take Him, Envious Heaven,</l>
+               <l>Though we want the Boy Below;</l>
+               <l>'Tis a Gift the Fates have Given;</l>
+               <l>And he ſure was made for You.</l>
+               <l>See from the Burning Pile aſcending Fire,</l>
+               <l>And curling Flames aſpire:</l>
+               <l>The frighted Eagle leaves the Top,</l>
+               <l>And Gently ſtooping down,</l>
+               <l>Takes the mighty Burden up,</l>
+               <pb n="18" facs="tcp:44761:11"/>
+               <l>And pleas'd with the Prey,</l>
+               <l>He Mounts the Bright way.</l>
+               <l>And ſwiftly, and Swiftly to Heav'n he's flown;</l>
+               <l>The Boy amaz'd looks back,</l>
+               <l>On Glittring Orbs, and bright Abodes.</l>
+               <l>And fearful Clings about the Feather'd Neck:</l>
+               <l>Stars, and Air, and Clouds,</l>
+               <l>Float and Glide beneath him:</l>
+               <l>Now he approaches the <hi>Empyreal</hi> Sphere;</l>
+               <l>Now he's there, he's there:</l>
+               <l>He comes, attend ye Deityes,</l>
+               <l>All that Tread the Skyes.</l>
+               <l>And kindly, and kindly receive him.</l>
+            </lg>
+            <lg>
+               <head>Chorus. <hi>The Boy,</hi> &amp;c.</head>
+               <l>Are we deceived? or was it <hi>Jove,</hi>
+               </l>
+               <l>Who in his Eagles form, Deſcended from above:</l>
+               <l>And from the Burning Bed,</l>
+               <l>Snatcht a better <hi>Ganymed?</hi>
+               </l>
+               <l>It is! it muſt be ſo,</l>
+               <l>And let <hi>Octavia</hi> the new Wonder know,</l>
+               <l>Tell her, what the God has done,</l>
+               <l>And charge her Mourn no more,</l>
+               <l>But joyning with the World adore,</l>
+               <l>And for a God, Exchange a Son;</l>
+               <l>And mayeſt thou, mighty <hi>Jove,</hi>
+               </l>
+               <l>Still Enjoy</l>
+               <l>The Charming Boy.</l>
+               <l>Still enjoy thy Love:</l>
+               <l>But if Great Nature beg to ſee</l>
+               <l>The new Young Deity.</l>
+               <l>Show her all the God:</l>
+               <l>Let her look, and look again:</l>
+               <l>This the reward of all her Pain,</l>
+               <l>She once upon the Beauteous Work beſtow'd:</l>
+               <l>Let her feed the Greedy Eye,</l>
+               <l>Upon the lovely Effigie.</l>
+               <pb n="19" facs="tcp:44761:11"/>
+               <l>Ev'ry Feature, every Grace,</l>
+               <l>Let the Curious Goddeſs take,</l>
+               <l>And like that Glorious Face,</l>
+               <l>A Second Image make.</l>
+               <l>Let her form the mighty Mind,</l>
+               <l>Of Pure <hi>Aetherial</hi> Flame refin'd,</l>
+               <l>And like the firſt be all the parts deſign'd:</l>
+               <l>The Vigour all the ſame, the ſome the Symetry,</l>
+               <l>Nor let her paſs an <hi>Atom</hi> by:</l>
+               <l>But be the Body form'd of Nobler Clay,</l>
+               <l>Than that which once did the Great Soul contain,</l>
+               <l>That late, that very late it may decay,</l>
+               <l>And to its former Earth return again:</l>
+               <l>Let it be for ever Young,</l>
+               <l>In ev'ry Joint and Sinew ſtrong:</l>
+               <l>But he the Beauty ſtill the ſame;</l>
+               <l>And when the Piece has all its Charms,</l>
+               <l>Give to <hi>Lucin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Arms.</l>
+               <l>And let <hi>Octavia</hi>'s Womb complete the finiſh'd Frame.</l>
+            </lg>
+            <lg>
+               <head>Grand <hi>Chorus.</hi>
+               </head>
+               <l>Let her form the mighty Mind,</l>
+               <l>Of Pure <hi>Aetherial</hi> Flame refin'd,</l>
+               <l>And like the firſt be all the parts deſign'd.</l>
+               <l>The Vigour all the ſame, the ſame the Symetry,</l>
+               <l>Nor let her paſs an <hi>Atom</hi> By,</l>
+               <l>But be the Body form'd of Nobler Clay,</l>
+               <l>Than that which once did the great Soul contain,</l>
+               <l>That late, that very late it may decay,</l>
+               <l>And to its former Earth return again:</l>
+               <l>Let it be for ever Young,</l>
+               <l>In Ev'ry Joint and Sinew ſtrong:</l>
+               <l>But be the Beauty ſtill the ſame;</l>
+               <l>And when the Piece has all its Charms,</l>
+               <l>Give it to <hi>Lucian</hi>'s Arms,</l>
+               <l>And let <hi>Octavia</hi>'s Womb complete the finiſh'd frame.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:44761:12"/>
+            <head>
+               <hi>BOOKS Printed for</hi> H. Playford <hi>in the</hi> Temple Change, Fleetſtreet.</head>
+            <p>THree Ellegies upon the Death of the late Queen <hi>Mary,</hi> ſet to Mu<g ref="char:EOLhyphen"/>ſick by Dr. <hi>Blow,</hi> and Mr. <hi>H. Purcell.</hi> Price Stitch'd 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The Mourning Swain, a Funeral Ec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gue, Moſt Humbly Offer'd to the Memory of the Right Honorable <hi>James</hi> Earl of <hi>Abingdon,</hi> Written by Mr. <hi>Gould,</hi> Dedicated to his Grace the Duke of <hi>Leeds.</hi>
+            </p>
+            <p>
+               <hi>Miſelanea Sacra:</hi> A Collection <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Moral Subjects, Collected by <hi>N. Tate,</hi> Servant to his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Bound 2 <hi>s.</hi>
+            </p>
+            <p>An Ode on the Death of the late Mr. <hi>Henry Purcell,</hi> the Words by Mr. <hi>Dryden,</hi> and ſet to Muſick by Dr. <hi>Blow.</hi>
+            </p>
+            <p>
+               <hi>Harmonia Sacra.</hi> The Second Book with the Supplement. The Words by Learned and Pious Perſons ſet to Muſick by the beſt Maſters. Price together 4 <hi>s.</hi> or the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>The Parallel;</hi> an Eſſay on Frie<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> By Sir <hi>H. Shares.</hi> Price Stich'd 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>BOOKS Printed for</hi> A. Roper <hi>at the</hi> Black Boy <hi>in</hi> Fleet<g ref="char:EOLhyphen"/>ſtreet.</head>
+            <p>
+               <hi>LUctus Britannici:</hi> Or, The Tears of the Britiſh Muſes, for the Death of <hi>John Dryden,</hi> Eſq; late Poet Laure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to Their Majeſties K. Charles, and K. <hi>James</hi> the Second. Written by the moſt Eminent Hands in the two famous Univerſities, and by ſeverall Others; with his Effigies.</p>
+            <p>A Collection of Miſcellan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Tho. Brown.</hi> The Second Edition with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>The Hiſtory of the <hi>Turks,</hi> beginning with the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Being a full Relation of the laſt Trouble<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>Hungary,</hi> with the Sieg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Vianna and Buda, and all the Battels by Sea and Land, between the Chriſtians and <hi>Turks,</hi> until the end of the Year <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in which the Peace between the <hi>Turks</hi> and the Confederate-Chriſtian Princes and States; were hap<g ref="char:EOLhyphen"/>pily Concluded at <hi>Carlowitz</hi> in <hi>Hungary</hi> by the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Majeſty of <hi>Great Britain,</hi> and the States General of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: With the Effigies of the Emperors, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at large, and Compleats the 6th and laſt Edition. By Sir Paul <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 18 Years conſul at Smirna, now His Majeſty's Reſident at Hamburgh, and F. R. S.</p>
+            <p>Travels over <hi>England, Scotland</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> exact Deſcription of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther with the Antiquities of divers other Places, with the moſt Famous Cathedrals, and other Eminent Structures; of ſeveral Remarkable Caves and Wells, with many other Dive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive Paſſages never before Publiſhed. By <hi>James Brome,</hi> M. A. Rector of <hi>Cheriton</hi> in <hi>Kent,</hi> and Chaplain to the Right Honorable the Earl of <hi>Romney.</hi> The Deſign of the ſaid Travels being for the Information of the two Eldeſt Sons of that Eminent Mer<g ref="char:EOLhyphen"/>chant Mr. Van-Ackar.</p>
+            <pb facs="tcp:44761:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
